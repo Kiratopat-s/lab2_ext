@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/kiratipatsawangsisombat/Desktop/MUT/Y_2_T_2/MIIC1225/lab",
+      "program": "/Users/kiratipatsawangsisombat/Desktop/MUT/Y_2_T_2/MIIC1225/lab/build/Debug/outDebug"
+    }
+  ]
+}
